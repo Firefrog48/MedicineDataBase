@@ -32,5 +32,7 @@
 
 #### Ссылки:
 - https://www.qt.io
-
+#### Скриншоты:
 - ![1111123_1_1656279827](https://github.com/Firefrog48/MedicineDataBase/blob/main/Снимок%20экрана%202024-12-16%20214637.png)
+- ![1111123_1_1656279827](https://github.com/Firefrog48/MedicineDataBase/blob/main/2024-12-16_21-56-23.png)
+- ![1111123_1_1656279827](https://github.com/Firefrog48/MedicineDataBase/blob/main/2024-12-16_21-57-44.png)
