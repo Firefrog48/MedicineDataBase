@@ -32,3 +32,5 @@
 
 #### Ссылки:
 - https://www.qt.io
+
+- ![1111123_1_1656279827](https://github.com/Firefrog48/MedicineDataBase/blob/main/Снимок%20экрана%202024-12-16%20214637.png)
